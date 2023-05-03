@@ -1,5 +1,5 @@
 
-# Exemplo de alta performance com Docker, Kubernetes escalável em Node.js
+# Exemplo de alta performance com Docker e Kubernetes em Node.js
 
 Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
